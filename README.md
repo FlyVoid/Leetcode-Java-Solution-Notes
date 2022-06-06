@@ -1,2 +1,2 @@
 # Leetcode-Java-Solution-Notes
-Leetcodes soluations by java and interview notes.
+Leetcode solutions by java and interview notes.
